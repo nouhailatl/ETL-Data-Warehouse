@@ -57,19 +57,18 @@ Le processus de transformation des données est divisé en trois scripts princip
 Modifier l'URL de connexion dans les scripts Python avec vos identifiants :
 ```python
 engine = create_engine("postgresql://user:password@localhost:5432/dbname")
-
+```
 3. Exécution
 Lancez les scripts dans l'ordre suivant :
 
-Bash
+```Bash
 python nettoyage_clients.py
 python nettoyage_produits.py
 python nettoyage_commandes.py
+```
 📈 Dashboard & Insights
 Le rapport Power BI final permet de répondre aux problématiques métier suivantes :
 
 Analyse du CA : Évolution mensuelle et par région.
-
 Top Produits : Identification des articles les plus performants.
-
 Panier Moyen : Segmentation par type de client (Gold, Silver, Bronze).
