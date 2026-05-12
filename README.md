@@ -1,4 +1,6 @@
 # 🏗️ Mexora ETL — Pipeline Data Warehouse
+=======
+#  Mexora ETL — Pipeline Data Warehouse
 
 Pipeline ETL complet pour le Data Warehouse de Mexora Analytics.  
 **Stack :** Python 3.11+ · pandas · SQLAlchemy · PostgreSQL 15+
@@ -168,5 +170,5 @@ DB_HOST = "localhost"      # ou export DB_HOST=...
 DB_PORT = "5432"
 DB_NAME = "mexora_dwh"
 DB_USER = "postgres"
-DB_PASS = "postgres"
+DB_PASS = "nouhaila2004"
 ```
