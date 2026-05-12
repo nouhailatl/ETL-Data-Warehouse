@@ -1,0 +1,22 @@
+# Environnement
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Logs générés automatiquement
+logs/
+*.log
+
+# Outputs CSV (générés par le pipeline)
+output_csv/
+
+# IDE
+.vscode/
+.idea/
+*.swp

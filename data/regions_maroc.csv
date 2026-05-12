@@ -1,0 +1,26 @@
+code_ville,nom_ville_standard,province,region_admin,zone_geo,population,code_postal
+TNG,Tanger,Fahs-Anjra,Tanger-Tétouan-Al Hoceima,Nord,947952,90000
+TET,Tétouan,Tétouan,Tanger-Tétouan-Al Hoceima,Nord,380787,93000
+HOC,Al Hoceima,Al Hoceima,Tanger-Tétouan-Al Hoceima,Nord,56716,32000
+OUJ,Oujda,Oujda-Angad,Oriental,Est,494252,60000
+NAD,Nador,Nador,Oriental,Est,161726,62000
+FES,Fès,Fès,Fès-Meknès,Centre-Nord,1112072,30000
+MEK,Meknès,Meknès,Fès-Meknès,Centre-Nord,632079,50000
+RBA,Rabat,Rabat,Rabat-Salé-Kénitra,Centre,577827,10000
+SAL,Salé,Salé,Rabat-Salé-Kénitra,Centre,890403,11000
+KEN,Kénitra,Kénitra,Rabat-Salé-Kénitra,Centre,431282,14000
+CAS,Casablanca,Casablanca,Casablanca-Settat,Centre,3752000,20000
+MOH,Mohammedia,Mohammedia,Casablanca-Settat,Centre,208612,28800
+ELJ,El Jadida,El Jadida,Casablanca-Settat,Centre,194934,24000
+MRK,Marrakech,Marrakech,Marrakech-Safi,Centre-Sud,928850,40000
+SAF,Safi,Safi,Marrakech-Safi,Centre-Sud,308508,46000
+ESS,Essaouira,Essaouira,Marrakech-Safi,Centre-Sud,77966,44000
+AGA,Agadir,Agadir-Ida-Outanane,Souss-Massa,Sud,421844,80000
+TIZ,Tiznit,Tiznit,Souss-Massa,Sud,74699,85000
+OUA,Ouarzazate,Ouarzazate,Drâa-Tafilalet,Sud-Est,71067,45000
+ERA,Errachidia,Errachidia,Drâa-Tafilalet,Sud-Est,92374,52000
+BER,Béni Mellal,Béni Mellal,Béni Mellal-Khénifra,Centre,192322,23000
+KHE,Khénifra,Khénifra,Béni Mellal-Khénifra,Centre,117510,54000
+LAY,Laâyoune,Laâyoune,Laâyoune-Sakia El Hamra,Sud Sahara,217732,70000
+DAK,Dakhla,Oued Eddahab,Dakhla-Oued Ed-Dahab,Sud Sahara,106277,73000
+BEN,Benslimane,Benslimane,Casablanca-Settat,Centre,104723,13110
