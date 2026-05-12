@@ -1,4 +1,4 @@
-# 🏗️ Mexora ETL — Pipeline Data Warehouse
+#  Mexora ETL — Pipeline Data Warehouse
 
 Pipeline ETL complet pour le Data Warehouse de Mexora Analytics.  
 **Stack :** Python 3.11+ · pandas · SQLAlchemy · PostgreSQL 15+
